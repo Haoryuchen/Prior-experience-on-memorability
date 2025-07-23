@@ -1,7 +1,7 @@
 # Memorability Across the Pacific Ocean: Data and Analysis Resources
 This repository contains research materials for the study:  
 **"What is memorable across the Pacific Ocean shows evidence of prior learning on the memorability of new visual inputs"**  
-by Haoyu Chen 1,2, Benchi Wang1,2* & Geoffrey F. Woodman3*
+by Haoyu Chen, Benchi Wang & Geoffrey F. Woodman
 
 ## Repository Contents
 
