@@ -3,24 +3,6 @@ This repository contains research materials for the study:
 **"What is memorable across the Pacific Ocean shows evidence of prior learning on the memorability of new visual inputs"**  
 by Haoyu Chen 1,2, Benchi Wang1,2* & Geoffrey F. Woodman3*
 
-1 Center for Studies of Psychological Application, South China Normal University, Guangzhou, China  
-2 Institute for Brain Research and Rehabilitation, South China Normal University, Guangzhou, China  
-3 Department of Psychology, Vanderbilt University, Nashville, Tennessee, United States
-
-*Corresponding authors
-
-## Correspondence
-- **Benchi Wang**  
-  Institute for Brain Research and Rehabilitation  
-  South China Normal University  
-  Zhongshan Road West 55, Guangzhou 510000, China  
-  Email: wangbenchi.swift@gmail.com
-
-- **Geoffrey F. Woodman**  
-  Department of Psychology, Vanderbilt University  
-  301 Wilson Hall, 111 21st Ave South, Nashville, TN 37240, USA  
-  Email: geoffrey.f.woodman@vanderbilt.edu
-
 ## Repository Contents
 
 ### 1. Behavioral Data & MATLAB Analysis Tools
